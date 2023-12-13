@@ -1,0 +1,114 @@
+body { 
+
+    text-align: center; 
+    
+    margin: 0px; 
+    
+    } 
+    
+     
+     
+    
+    p { 
+    
+    font-size: 18px; 
+    
+    line-height: 1.5; 
+    color: rgba(22, 48, 74, 0.857);
+    } 
+    
+     
+     
+    
+    img { 
+    
+    width: 320px; 
+    
+    height: 190px; 
+    
+    margin-right: 20px; 
+    
+    border: 3px solid black; 
+    
+    border-radius: 15px; 
+    
+    padding: 4px; 
+    
+    box-shadow: 0 0 10px black; 
+    
+    } 
+    
+     
+     
+    
+    .header { 
+    
+    background-color: rgb(188, 186, 142); 
+    
+    padding: 10px; 
+    
+    color: rgb(124, 78, 78); 
+    
+    } 
+    
+     
+     
+    
+    .team { 
+    
+    background-color: rgb(205, 214, 137); 
+    
+    padding: 10px; 
+    
+    } 
+    
+     
+     
+    
+    .clients { 
+    
+    background-color: rgb(71, 88, 94); 
+    
+    padding: 10px; 
+    
+    } 
+    
+     
+     
+    
+    .development { 
+    
+    background-color: rgba(92, 81, 81, 0.516); 
+    
+    padding: 10px; 
+    
+    } 
+    
+     
+     
+    
+    .footer { 
+    
+    background-color: rgb(114, 109, 90); 
+    
+    padding: 10px; 
+    
+    color: rgb(162, 141, 141); 
+    
+    } 
+    
+     
+     
+    
+    .software { 
+    
+    color: rgb(255, 141, 255); 
+    
+    } 
+    
+     
+     
+    
+    .solutions { 
+    
+    color: rgb(63, 63, 56);
